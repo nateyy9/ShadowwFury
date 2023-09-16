@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="800" height="800">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A very ease to use DDoS Tool!
     <br />
     <a href=""><strong>Explore the docs »</strong></a>
     <br />
