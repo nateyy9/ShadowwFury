@@ -110,7 +110,8 @@ Here you will learn how to safley install ShadowwFury on your computer.
 ## Usage
 
 ShadowwFury is a extremly basic DDoS Tool that can cause some Serious Damage.
-if you are concerned about the legal issues of ShadowwFury, please refer to the MIT LICENSE
+if you are concerned about the legal issues of ShadowwFury, please refer to the MIT LICENSE.
+
 The actual ussage of ShadowwFury is:
 
 ```sh
