@@ -77,7 +77,7 @@ Here you will get a brief explaination, of how you can use and install ShadowwFu
 
 ### Prerequisites
 
-Make sure you have all the necesery Tools installed in order for this to work
+Make sure you have all the necessary Tools installed in order for this to work
 * pip
   ```sh
   pip install -r requirements.txt
