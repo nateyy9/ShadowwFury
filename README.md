@@ -113,8 +113,17 @@ ShadowwFury is a extremly basic DDoS Tool that can cause some Serious Damage.
 if you are concerned about the legal issues of ShadowwFury, please refer to the MIT LICENSE
 The actual ussage of ShadowwFury is:
 
-
+```sh
 python3 shadowfury.py [Target IP/URL] [Threads] [Time in seconds]
+```
+
+examples:
+```sh
+python3 shadowfury.py hackthissite.org 500 400
+```
+```sh
+python3 shadowfury.py testfire.net 400 1000
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
