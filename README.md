@@ -54,7 +54,6 @@
     <li>
       <a href="#What-is-ShadowwFury?">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -69,7 +68,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -91,7 +89,7 @@ Here you will learn how to safley install ShadowwFury on your computer.
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/nateyy9/ShadowwFury
    ```
 2. Acsess the folder
    ```sh
@@ -113,6 +111,11 @@ Here you will learn how to safley install ShadowwFury on your computer.
 
 ShadowwFury is a extremly basic DDoS Tool that can cause some Serious Damage.
 if you are concerned about the legal issues of ShadowwFury, please refer to the MIT LICENSE
+The actual ussage of ShadowwFury is:
+python3 shadowfury.py [Target IP/URL] [Threads] [Time in seconds]
+examples:
+  python3 shadowfury.py hackthissite.org 500 400
+  python3 shadowfury.py testfire.net 200 1000
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,9 +149,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-nateyy - [@linux.xhacking](https://instagram.com/linux.xhacking) - kartoffel6988@gmail.com
+nateyy - [@linux.xhacking](https://instagram.com/linux.xhacking) 
 
-Project Link: [https://github.com/](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/nateyy9/ShadowwFury](https://github.com/nateyy9/ShadowwFury)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
