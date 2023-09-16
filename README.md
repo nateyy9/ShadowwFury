@@ -91,7 +91,7 @@ Here you will learn how to safley install ShadowwFury on your computer.
    ```sh
    git clone https://github.com/nateyy9/ShadowwFury
    ```
-2. Acsess the folder
+2. Access the folder
    ```sh
    cd ShadowwFury
    ```
