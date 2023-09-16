@@ -112,10 +112,10 @@ Here you will learn how to safley install ShadowwFury on your computer.
 ShadowwFury is a extremly basic DDoS Tool that can cause some Serious Damage.
 if you are concerned about the legal issues of ShadowwFury, please refer to the MIT LICENSE
 The actual ussage of ShadowwFury is:
+
+
 python3 shadowfury.py [Target IP/URL] [Threads] [Time in seconds]
-examples:
-  python3 shadowfury.py hackthissite.org 500 400
-  python3 shadowfury.py testfire.net 200 1000
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
