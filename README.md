@@ -29,7 +29,7 @@
     <img src="images/logo.png" alt="Logo" width="800" height="800">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SHADOWWFURY</h3>
 
   <p align="center">
     A very ease to use DDoS Tool!
