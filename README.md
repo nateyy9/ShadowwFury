@@ -73,7 +73,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Here u will get a brief explaination, of how you can use and install ShadowwFury:)
+Here you will get a brief explaination, of how you can use and install ShadowwFury:)
 
 ### Prerequisites
 
